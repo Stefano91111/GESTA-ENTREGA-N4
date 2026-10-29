@@ -17,16 +17,15 @@ El proyecto contempla el análisis y diseño de procesos organizacionales, la pl
 ## Organización del repositorio
 
 - `README.md`: presentación y documentación general del proyecto.
-- `docs/`: documentación de las entregas de Organización Empresarial.
-- `docs/bpmn/`: diagramas de procesos de negocio.
-- `docs/indicadores/`: indicadores de control y seguimiento.
+- Archivo editable: BPMN_GESTA.drawio
+- Vista previa: BPMN.drawio.png
 
 ## Asignatura
 
 - Carrera: Tecnicatura Universitaria en Programación a Distancia.
 - Institución: Universidad Tecnológica Nacional (UTN).
 - Materia: Organización Empresarial.
-- Autor: [Completar con nombre y apellido].
+- Autor: Stefano Gomez.
 - Entrega: N.º 4 — Procesos, Trabajo Colaborativo y Control Integrador.
 
 ## Documentación
