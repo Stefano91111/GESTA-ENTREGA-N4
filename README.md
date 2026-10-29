@@ -17,7 +17,7 @@ El proyecto contempla el análisis y diseño de procesos organizacionales, la pl
 ## Organización del repositorio
 
 - `README.md`: presentación y documentación general del proyecto.
-- Archivo editable: BPMN_GESTA.drawio
+- Archivo editable: BPMN.drawio
 - Vista previa: BPMN.drawio.png
 
 ## Asignatura
