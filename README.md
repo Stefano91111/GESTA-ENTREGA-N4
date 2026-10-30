@@ -34,5 +34,26 @@ Los documentos de las entregas anteriores y los materiales correspondientes a la
 
 ## Uso de herramientas de inteligencia artificial
 
-El uso de herramientas de inteligencia artificial se declarará de manera transparente, indicando su propósito y las revisiones realizadas por el estudiante.
+## Declaración de Uso de Inteligencia Artificial
 
+Durante el desarrollo de la documentación del proyecto GESTA se utilizó ChatGPT como herramienta de asistencia para organizar y estructurar el trabajo correspondiente a la Entrega N.º 4.
+
+### Prompts utilizados
+
+Se utilizaron instrucciones para:
+- Proponer el modelado BPMN del proceso de ventas, contemplando la verificación de stock y las posibles excepciones.
+- Estructurar historias de usuario para las funcionalidades de gestión de stock, registro de ventas y proveedores.
+- Proponer indicadores de control y estándares de desempeño para evaluar el funcionamiento del sistema.
+- Revisar la redacción y organización de la documentación técnica.
+
+### Revisión crítica y correcciones humanas
+
+Los resultados proporcionados por la IA fueron utilizados como propuestas iniciales y no se incorporaron automáticamente.
+
+Se revisó la coherencia del proceso BPMN, las decisiones relacionadas con la disponibilidad de stock y el resultado del pago, y la correspondencia de las historias de usuario con las funcionalidades previstas para GESTA.
+
+También se analizaron los indicadores propuestos, verificando que sus fórmulas y estándares fueran adecuados para el contexto del sistema. Los valores establecidos se consideran objetivos de referencia y no mediciones reales.
+
+La organización final del documento, la selección de los contenidos y la revisión de las propuestas generadas quedaron bajo responsabilidad del estudiante.
+
+La IA se utilizó como herramienta de apoyo, manteniendo el criterio humano para validar y adaptar los resultados al proyecto.
