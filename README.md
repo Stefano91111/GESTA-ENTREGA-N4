@@ -32,7 +32,7 @@ El proyecto contempla el análisis y diseño de procesos organizacionales, la pl
 
 Los documentos de las entregas anteriores y los materiales correspondientes a la Entrega N.º 4 se incorporarán a este repositorio.
 
-## Uso de herramientas de inteligencia artificial
+
 
 ## Declaración de Uso de Inteligencia Artificial
 
